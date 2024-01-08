@@ -149,6 +149,8 @@ const socialprofils = {
     codeforces: "https://codeforces.com/profile/0x4F5F6F",
     codechef: "https://www.codechef.com/users/deaddemon",
 };
+
+const resume = "https://drive.google.com/file/d/1d-M2QYBcnKfv_B4b8IBVJsUx8Fobh1JV/view";
 export {
     meta,
     dataabout,
@@ -160,4 +162,5 @@ export {
     contactConfig,
     socialprofils,
     logotext,
+    resume,
 };
