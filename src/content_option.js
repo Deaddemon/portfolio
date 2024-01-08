@@ -70,51 +70,61 @@ const dataportfolio = [{
     img: "CodeBoard.png",
     description: "CodeBoard: A Code editor and white board for programming and head scracthing",
     link: "https://code-board-adg1.vercel.app/",
+    code: "https://github.com/Deaddemon/CodeBoard",
 },
-
  
-{
-    img:  "Engage.png",
-    description: "Engage: A platform that provides interactive UI representation of a Car dataset insights",
-    link: "https://github.com/Deaddemon/engage_mentee/tree/master",
-},
-{
-    img:  "BeepKart.png",
-    description: "BeepKart: An E-commerce website made with ReactJS, NodeJs, MongoDB and Express",
-    link: "https://flipkartclone-mern-frontend.onrender.com/",
-},
 {
     img:  "tindog.png",
     description: "tindog: A tinder for dogs made with html,css and bootstrap",
     link: "https://deaddemon.github.io/tindog/",
+    code: "https://github.com/Deaddemon/tindog",
+},
+{
+    img:  "theClock.png",
+    description: "theClock: An analogue clock made with html,css and javascript",
+    link: "https://deaddemon.github.io/theClock/",
+    code: "https://github.com/Deaddemon/theClock",
+},
+{
+    img:  "Engage.png",
+    description: "Engage: A platform that provides interactive UI representation of a Car dataset insights",
+    link: "https://github.com/Deaddemon/engage_mentee/tree/master",
+    code: "https://github.com/Deaddemon/engage_mentee/tree/master",
 },
  
 {
     img:  "chatbot-PWA.png",
     description: "chatbot-PWA: A progressive chat bot react App with audio recoder.",
     link: "https://chatbot-pwa.vercel.app/",
-},
-{
-    img:  "theClock.png",
-    description: "theClock: An analogue clock made with html,css and javascript",
-    link: "https://deaddemon.github.io/theClock/",
+    code:"https://github.com/Deaddemon/chatbot-PWA",
 },
  
 {
     img:  "Songs.png",
     description: "Songs : A music player with html,css and javascript",
     link: "https://deaddemon.github.io/songs/",
+    code:"https://github.com/Deaddemon/songs",
 },
+ 
+{
+    img:  "BeepKart.png",
+    description: "BeepKart: An E-commerce website made with ReactJS, NodeJs, MongoDB and Express",
+    link: "https://flipkartclone-mern-frontend.onrender.com/",
+    code: "https://github.com/Deaddemon/flipkartClone_MERN",
+},
+ 
 {
     img:  "ghostyGame.png",
     description: "ghostyGame: An animated number game made with html,css and javascript",
     link: "https://deaddemon.github.io/ghostyGame/",
+    code: "https://github.com/Deaddemon/ghostyGame",
 },
  
 {
     img:  "calculator.png",
     description: "calculator: A stylish calculator made with html,css and javascript",
     link: "https://deaddemon.github.io/calculator/",
+    code: "https://github.com/Deaddemon/calculator",
 },
 ];
 
