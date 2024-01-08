@@ -233,6 +233,6 @@ section {
     filter: saturate(0.5);
 }
 .resumeButton {
-    color: pink;
+    color: var(--resume-color);
   }
   

@@ -41,7 +41,8 @@ export const Home = () => {
                     }}
                   />
                 </h1>
-                <p className="mb-1x">{introdata.description}     <a href= {resume} download="Vinita_Resume" target='_blank'>
+                <p className="mb-1x">{introdata.description}     
+                <a href= {resume} download="Vinita_Resume" target='_blank'>
  <div className="resumeButton" >View resume</div>
 </a></p>
                 
