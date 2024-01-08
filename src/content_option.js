@@ -145,8 +145,7 @@ const socialprofils = {
     instagram: "https://instagram.com/__fl0k1__/",
     medium: "https://medium.com/@deaddemon",
     leetcode: "https://leetcode.com/coderdead/",
-    hackerrank: "https://www.hackerrank.com/profile/ryuk333",
-    codeforces: "https://codeforces.com/profile/0x4F5F6F",
+    hackerrank: "https://www.hackerrank.com/profile/ryuk333", 
     codechef: "https://www.codechef.com/users/deaddemon",
 };
 
