@@ -3,7 +3,7 @@
 const logotext = "Vinita";
 const meta = {
     title: "Vinita",
-    description: "I am Vinita software Developer _ Full stack devloper,currently a finaly year student",
+    description: "I am Vinita software Developer _ Full stack devloper, graduated in 2024",
 };
 
 const introdata = {
@@ -13,7 +13,7 @@ const introdata = {
         second: "I code cool websites",
         third: "I develop logics",
     },
-    description: "Looking for 6 month Internship and full time SDE role, graduating in 2024. Final year Student at Army Institute of Technology, Pune. Skills:  C++ ,ReactJS, JavaScript, Python, TypeScript, Django, SQL , MongoDB , HTML5, CSS3, Tailwind CSS, and NodeJS",
+    description: "Looking Full time Software Engineer roles, graduated in 2024. Interned at Snowflake, Microsoft and Teach For India. Skills: C++, HTML, CSS, JavaScript, TypeScript, Python, SQL, ReactJS, ExpressJS, NodeJS, SpringBoot, MySQL, MongoDB, Windows, GIT, Communication, Fast learner, Leadership, Flexible, Time Management",
     your_img_url: "download.png",
 };
 
@@ -22,6 +22,11 @@ const dataabout = {
     aboutme: "I have experience in   C++ ,ReactJS, JavaScript, Python, TypeScript, Django, SQL , MongoDB , HTML5, CSS3, Tailwind CSS, and NodeJS.Committed to continuous learning and do seek new opportunities to contribute to the organization. Let's explore how we can work together for unity and progress.",
 };
 const worktimeline = [{
+    jobtitle: "Full Stack Engineer Intern",
+    where: "Snowflake",
+    date: "18 March 2024 - 16 July 2024",
+},
+{
     jobtitle: "Software Engineer Intern",
     where: "Microsoft",
     date: "10 April 2023 - 2 June 2023",
@@ -35,26 +40,66 @@ const worktimeline = [{
 ];
 
 const skills = [{
+    name: "C++",
+    value: 90,
+},
+{
+    name: "HTML",
+    value: 85,
+},
+{
+    name: "CSS",
+    value: 85,
+},
+{
+    name: "JavaScript",
+    value: 80,
+},
+{
+    name: "TypeScript",
+    value: 75,
+},
+{
     name: "Python",
     value: 90,
 },
 {
-    name: "Djano",
-    value: 85,
-},
-{
-    name: "Javascript",
+    name: "SQL",
     value: 80,
 },
 {
-    name: "React",
-    value: 60,
+    name: "ReactJS",
+    value: 70,
 },
 {
-    name: "Jquery",
+    name: "ExpressJS",
+    value: 65,
+},
+{
+    name: "NodeJS",
+    value: 75,
+},
+{
+    name: "SpringBoot",
+    value: 65,
+},
+{
+    name: "MySQL",
+    value: 80,
+},
+{
+    name: "MongoDB",
+    value: 75,
+},
+{
+    name: "Windows",
     value: 85,
 },
-];
+{
+    name: "GIT",
+    value: 80,
+}];
+
 
 const services = [{
     title: "UI & UX Design",
@@ -144,12 +189,12 @@ const socialprofils = {
     github: "https://github.com/Deaddemon",
     instagram: "https://instagram.com/__fl0k1__/",
     medium: "https://medium.com/@deaddemon",
-    leetcode: "https://leetcode.com/coderdead/",
-    hackerrank: "https://www.hackerrank.com/profile/ryuk333", 
-    codechef: "https://www.codechef.com/users/deaddemon",
+    // leetcode: "https://codeforces.com/profile/Axial-Tilted",
+    // hackerrank: "https://www.hackerrank.com/profile/ryuk333", 
+    // codechef: "https://www.codechef.com/users/deaddemon",
 };
 
-const resume = "https://drive.google.com/file/d/1d-M2QYBcnKfv_B4b8IBVJsUx8Fobh1JV/view";
+const resume = "https://drive.google.com/drive/folders/1RaluqceGKg1Te78Q9UnbYJnhl7L6UEP0?usp=sharing";
 export {
     meta,
     dataabout,
